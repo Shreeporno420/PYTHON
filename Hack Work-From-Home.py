@@ -1,3 +1,4 @@
+#Note this program will hack your computer
 import pyautogui
 import time
 pyautogui.FAILSAFE = False
